@@ -1,4 +1,12 @@
 # analyse_donn-es_2.0
+
+## NB
+Nous avons essayé en premier lieu de déterminer le classement NBA de la saison prochaine avec les datasets des années passés. Cependant, il y avait d'une part de nombreuses incohérences entres chaque dataset de chaque saison. D'autre part, les données étaient tellement importante que cela faisait planter excel à chaque fois que nous tentions de nettoyer et reformater le fichier pour pouvoir exploiter les dataset.
+
+Nous avons donc décidé de passer sur la prédiction du classement en premier league.
+Concernant la méthode employée, nous n'avons pas été en mesure de trouver des dataset sur les saisons antérieures qui auraient pu nous permettre d'entrainer un modèle.
+Nous avons donc choisi d'utiliser une méthode de pondération des facteurs en fonction de l'importance présumée dans la détermination du succès d'une équipe
+
 Prédiction du classement premier league de la prochaine saison 2024/2025 basé sur les performances des club sur la saison 2023/2024 jusqu'à présent.
 
 Facteurs  pris en compte pour la prédiction du classement de la Premier League, ainsi que le système de pondération de points pour chaque facteur, avec une justification pour chaque choix :
