@@ -27,3 +27,26 @@ Facteurs  pris en compte pour la prédiction du classement de la Premier League,
     - **Justification** : Les buts encaissés ont un impact négatif sur le score, car encaisser moins est essentiel pour gagner des matchs.
 
 Cette pondération cherche à équilibrer les contributions des différents aspects du jeu, mettant l'accent sur les résultats directs (points et buts) tout en intégrant des mesures de performance sous-jacente (xG, défense, gardien) pour une prédiction plus holistique et équilibrée.
+
+Voici le classement complet des équipes de la Premier League basé sur le score de prédiction étendu après avoir exécuté le script :
+
+1. **Liverpool** - Score: 90.950
+2. **Tottenham** - Score: 87.315
+3. **Arsenal** - Score: 87.015
+4. **Manchester City** - Score: 76.820
+5. **Everton** - Score: 76.180
+6. **Fulham** - Score: 74.765
+7. **Manchester United** - Score: 73.670
+8. **West Ham** - Score: 73.620
+9. **Chelsea** - Score: 73.085
+10. **Bournemouth** - Score: 72.475
+11. **Newcastle United** - Score: 72.440
+12. **Brentford** - Score: 71.530
+13. **Wolverhampton Wanderers (Wolves)** - Score: 71.070
+14. **Aston Villa** - Score: 70.595
+15. **Brighton** - Score: 69.620
+16. **Nottingham Forest** - Score: 68.135
+17. **Crystal Palace** - Score: 67.595
+18. **Luton Town** - Score: 59.590
+19. **Sheffield United** - Score: 52.685
+20. **Burnley** - Score: 51.830
